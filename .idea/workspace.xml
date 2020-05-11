@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TrainYourBrain:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa0d6167-f38f-471e-99b2-737c77b60722" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ULYt1M0QCrsWI0VzneZONOH9js" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krzysiek\Desktop\TrainYourBrain1\src\pictures" />
+      <recent name="D:\TrainYourBrain\src\pictures" />
+      <recent name="D:\TrainYourBrain\src" />
+      <recent name="C:\Users\krzysiek\Desktop\TrainYourBrain\src\pictures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krzysiek\Desktop\TrainYourBrain1\src\pictures" />
+      <recent name="C:\Users\krzysiek\Desktop\TrainYourBrain\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameTrainBrain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameTrainBrain" />
+      <module name="TrainYourBrain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameTrainBrain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa0d6167-f38f-471e-99b2-737c77b60722" name="Default Changelist" comment="" />
+      <created>1575137553788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575137553788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="207" key="#Project_Structure" timestamp="1578052065190">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="345" y="208" key="#Project_Structure/0.0.1598.1050@0.0.1598.1050" timestamp="1575402389017" />
+    <state x="320" y="207" key="#Project_Structure/0.0.1604.1050@0.0.1604.1050" timestamp="1578052065190" />
+    <state x="571" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577663196215">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="571" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1604.1050@0.0.1604.1050" timestamp="1577663196215" />
+    <state x="573" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1575153483076">
+      <screen x="0" y="0" width="1598" height="1050" />
+    </state>
+    <state x="573" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1598.1050@0.0.1598.1050" timestamp="1575153483076" />
+    <state x="521" y="311" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1575279829760">
+      <screen x="0" y="0" width="1598" height="1050" />
+    </state>
+    <state x="521" y="311" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1598.1050@0.0.1598.1050" timestamp="1575279829760" />
+    <state x="522" y="319" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578156074056">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="522" y="319" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1604.1050@0.0.1604.1050" timestamp="1578156074056" />
+    <state x="584" y="243" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1577664914247">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="584" y="243" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1604.1050@0.0.1604.1050" timestamp="1577664914247" />
+    <state x="595" y="409" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575756734534">
+      <screen x="0" y="0" width="1598" height="1050" />
+    </state>
+    <state x="595" y="409" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1598.1050@0.0.1598.1050" timestamp="1575756734534" />
+    <state x="1003" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575759457523">
+      <screen x="0" y="0" width="1598" height="1050" />
+    </state>
+    <state x="1003" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1598.1050@0.0.1598.1050" timestamp="1575759457523" />
+    <state x="532" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578155021162">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="530" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1598.1050@0.0.1598.1050" timestamp="1575991394299" />
+    <state x="532" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1604.1050@0.0.1604.1050" timestamp="1578155021162" />
+    <state x="521" y="282" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1575492237781">
+      <screen x="0" y="0" width="1598" height="1050" />
+    </state>
+    <state x="521" y="282" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1598.1050@0.0.1598.1050" timestamp="1575492237781" />
+    <state x="560" y="262" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578175549914">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="560" y="262" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1604.1050@0.0.1604.1050" timestamp="1578175549914" />
+    <state x="482" y="264" key="DetectedRootsChooserDialog" timestamp="1577664838673">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="482" y="264" key="DetectedRootsChooserDialog/0.0.1604.1050@0.0.1604.1050" timestamp="1577664838673" />
+    <state x="407" y="304" key="FileChooserDialogImpl" timestamp="1578175429486">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="390" y="250" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1577988157496" />
+    <state x="405" y="304" key="FileChooserDialogImpl/0.0.1598.1050@0.0.1598.1050" timestamp="1575991051329" />
+    <state x="407" y="304" key="FileChooserDialogImpl/0.0.1604.1050@0.0.1604.1050" timestamp="1578175429486" />
+    <state width="1561" height="131" key="GridCell.Tab.0.bottom" timestamp="1578175665257">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577998160155" />
+    <state width="1555" height="2" key="GridCell.Tab.0.bottom/0.0.1598.1050@0.0.1598.1050" timestamp="1575992013773" />
+    <state width="1561" height="131" key="GridCell.Tab.0.bottom/0.0.1604.1050@0.0.1604.1050" timestamp="1578175665257" />
+    <state width="1561" height="131" key="GridCell.Tab.0.center" timestamp="1578175665257">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577998160154" />
+    <state width="1555" height="2" key="GridCell.Tab.0.center/0.0.1598.1050@0.0.1598.1050" timestamp="1575992013772" />
+    <state width="1561" height="131" key="GridCell.Tab.0.center/0.0.1604.1050@0.0.1604.1050" timestamp="1578175665257" />
+    <state width="1561" height="131" key="GridCell.Tab.0.left" timestamp="1578175665257">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577998160154" />
+    <state width="1555" height="2" key="GridCell.Tab.0.left/0.0.1598.1050@0.0.1598.1050" timestamp="1575992013772" />
+    <state width="1561" height="131" key="GridCell.Tab.0.left/0.0.1604.1050@0.0.1604.1050" timestamp="1578175665257" />
+    <state width="1561" height="131" key="GridCell.Tab.0.right" timestamp="1578175665257">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577998160154" />
+    <state width="1555" height="2" key="GridCell.Tab.0.right/0.0.1598.1050@0.0.1598.1050" timestamp="1575992013773" />
+    <state width="1561" height="131" key="GridCell.Tab.0.right/0.0.1604.1050@0.0.1604.1050" timestamp="1578175665257" />
+    <state width="1561" height="205" key="GridCell.Tab.1.bottom" timestamp="1577634995651">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1340" height="322" key="GridCell.Tab.1.bottom/0.0.1598.1050@0.0.1598.1050" timestamp="1575496474095" />
+    <state width="1561" height="205" key="GridCell.Tab.1.bottom/0.0.1604.1050@0.0.1604.1050" timestamp="1577634995651" />
+    <state width="1561" height="205" key="GridCell.Tab.1.center" timestamp="1577634995650">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1340" height="322" key="GridCell.Tab.1.center/0.0.1598.1050@0.0.1598.1050" timestamp="1575496474095" />
+    <state width="1561" height="205" key="GridCell.Tab.1.center/0.0.1604.1050@0.0.1604.1050" timestamp="1577634995650" />
+    <state width="1561" height="205" key="GridCell.Tab.1.left" timestamp="1577634995650">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1340" height="322" key="GridCell.Tab.1.left/0.0.1598.1050@0.0.1598.1050" timestamp="1575496474095" />
+    <state width="1561" height="205" key="GridCell.Tab.1.left/0.0.1604.1050@0.0.1604.1050" timestamp="1577634995650" />
+    <state width="1561" height="205" key="GridCell.Tab.1.right" timestamp="1577634995651">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state width="1340" height="322" key="GridCell.Tab.1.right/0.0.1598.1050@0.0.1598.1050" timestamp="1575496474095" />
+    <state width="1561" height="205" key="GridCell.Tab.1.right/0.0.1604.1050@0.0.1604.1050" timestamp="1577634995651" />
+    <state x="272" y="110" key="SettingsEditor" timestamp="1578156096298">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="271" y="110" key="SettingsEditor/0.0.1598.1050@0.0.1598.1050" timestamp="1575402253256" />
+    <state x="272" y="110" key="SettingsEditor/0.0.1604.1050@0.0.1604.1050" timestamp="1578156096298" />
+    <state x="445" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1577731591066">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="288" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577731591066" />
+    <state x="463" y="350" key="com.intellij.ide.util.TipDialog/0.0.1598.1050@0.0.1598.1050" timestamp="1575756697032" />
+    <state x="490" y="142" width="609" height="789" key="find.popup" timestamp="1577615413405">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="488" y="142" width="606" height="789" key="find.popup/0.0.1598.1050@0.0.1598.1050" timestamp="1575401471988" />
+    <state x="490" y="142" width="609" height="789" key="find.popup/0.0.1604.1050@0.0.1604.1050" timestamp="1577615413405" />
+    <state x="184" y="144" key="new project wizard" timestamp="1577664522816">
+      <screen x="0" y="0" width="1604" height="1050" />
+    </state>
+    <state x="184" y="144" key="new project wizard/0.0.1604.1050@0.0.1604.1050" timestamp="1577664522816" />
+    <state x="478" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1577991335799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="124" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1577991335799" />
+    <state x="497" y="154" key="refactoring.ChangeSignatureDialog/0.0.1598.1050@0.0.1598.1050" timestamp="1575479811099" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="TrainYourBrain" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TrainYourBrain" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
